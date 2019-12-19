@@ -2,3 +2,5 @@
 Yeet, Sugar Labs Google Code-In
 
 "My First Repository"
+
+"Hello Sugar Labs"
